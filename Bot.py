@@ -9,7 +9,7 @@ TOKEN = "8056068580:AAF6kwQ6WMybNQ8njfUk2sRcLUMPA1GYabM"
 ADMIN_IDS = [732255152]  # Tasdiqlovchilar ro‘yxati
 
 # Kanal IDsi (Videolar yuklanadigan kanal)
-CHANNEL_ID = "https://t.me/+Ed4_OYF5gI8zZDFi"
+CHANNEL_ID = "1002285840601"
 
 # Ma'lumotlar saqlash uchun dict
 user_data = {}
