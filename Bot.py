@@ -3,7 +3,7 @@ from telegram.ext import Updater, CommandHandler, MessageHandler, Filters, Callb
 import os
 
 # Bot Token
-TOKEN = "YOUR_BOT_TOKEN"
+TOKEN = "8056068580:AAF6kwQ6WMybNQ8njfUk2sRcLUMPA1GYabM"
 
 # Tasdiqlovchi shaxslarning ID ro‘yxati
 ADMIN_IDS = [732255152]  # Tasdiqlovchilar ro‘yxati
